@@ -20,11 +20,11 @@ const App = () => {
       <Navbar />
       <Hero />
       <AboutUs />
-      <SpecialMenu />
-      <Chef />
+      {/* <SpecialMenu /> */}
       <Intro />
-      <Laurels />
+      <Chef />
       <Gallery />
+      <Laurels />
       <FindUs />
       <Footer />
     </div>
